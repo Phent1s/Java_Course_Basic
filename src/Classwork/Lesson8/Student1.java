@@ -1,6 +1,6 @@
 package Classwork.Lesson8;
 
-import homework.Student;
+import Homework.Student;
 
 public class Student1 {
     String name;
